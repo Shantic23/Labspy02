@@ -17,10 +17,10 @@ Baik, kita mulai langsung dengan menyiapkan 3 buah variabel, yaitu a, b, dan c.
 # Mencari Angka Terbesar Antara a, b, dan c
 Langkah selanjutnya adalah menulis logika untuk mencari angka terbesar, apakah itu a? b? atau c?
 Berikut ini kira-kira implementasi logikanya:
-![image1.png](Screenshot/Bilanganterbesar.py.png)
+![image1.png](Screenshot/Bilangan%20terbesar.py.png)
 
 - Lalu kita masukan angka untuk mengisi 3 buah bilangan, setelah itu kita enter maka kita akan tau hasil bilangan yang terbesar seperti dibawah ini
-![image2.png](Screenshot/hasilBilanganterbesar.py.png)
+![image2.png](Screenshot/hasil%20Bilangan%20terbesar.py.png)
 
 **FLOWCHART DARI PROGRAM DIATAS**
 - Berikut adalah gambaran flowchart dari menentukan bilangan terbesar dari 3 buah bilangan
@@ -40,11 +40,11 @@ Berikut ini kira-kira implementasi logikanya:
 - Buatlah kodingan Nested for seperti dibawah ini
 ![image13.png](Screenshot/Nested.py.png)
 - Lalu akan keluar hasilnya seperti dibawah ini
-![image14.png](Screenshot/hasilNested.py.png)
+![image14.png](Screenshot/hasil%20Nested.py.png)
 
 # Latihan Struktur Kondisi
 ## PROGRAM MENGURUTKAN DATA BERDASARKAN INPUT SEJUMLAH DATA
 - Buatlah kodingan mengurutkan angka seperti dibawah ini
-![image15.png](Screenshot/urutanbilangan.png)
+![image15.png](Screenshot/urutan%20bilangan.png)
 - Lalu akan keluar hasilnya seperti dibawah ini
-![image16.png](Screenshot/hasilurutanbilangan.py.png)
+![image16.png](Screenshot/hasil%20urutan%20bilangan.py.png)
