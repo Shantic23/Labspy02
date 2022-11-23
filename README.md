@@ -25,3 +25,26 @@ Berikut ini kira-kira implementasi logikanya:
 **FLOWCHART DARI PROGRAM DIATAS**
 - Berikut adalah gambaran flowchart dari menentukan bilangan terbesar dari 3 buah bilangan
 ![image3.png](Screenshot/flowchart1.jpg)
+
+## STRUKTUR KONDISI DAN PERULANGAN
+# PENJELASAN LOOPING
+
+- Repository ini menjelaskan tentang **LOOPING** pada program python
+- **LOOPING** sendiri artinya perulangan,dalam bahasa pemrograman merupakan suatu pernyataan untuk 
+- menguntruksi komputer agar melakukan sesuatu secara berulang.
+- Terdapat 2 jenis perulangan dalam bahasa pemrograman *python* ,yaitu perulangan **for** & **while** .
+- Dan seperti inilah contoh dari program looping pada python.
+# Latihan Perulangan
+## MEMBUAT PROGRAM DENGAN PERULANGAN BERTINGKAT 
+
+- Buatlah kodingan Nested for seperti dibawah ini
+![image13.png](Screenshot/Nested.py.png)
+- Lalu akan keluar hasilnya seperti dibawah ini
+![image14.png](Screenshot/hasilNested.py.png)
+
+# Latihan Struktur Kondisi
+## PROGRAM MENGURUTKAN DATA BERDASARKAN INPUT SEJUMLAH DATA
+- Buatlah kodingan mengurutkan angka seperti dibawah ini
+![image15.png](Screenshot/urutanbilangan.png)
+- Lalu akan keluar hasilnya seperti dibawah ini
+![image16.png](Screenshot/hasilurutanbilangan.py.png)
